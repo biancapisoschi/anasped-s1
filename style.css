@@ -11,11 +11,13 @@ h1 {
 }
 
 .intro,
-.carusel,
 .contact {
     padding: 60px 15px;
 }
 
+.carusel {
+    margin: 60px 15px;
+}
 /* hero */
 .hero {
     max-width: 1200px;
